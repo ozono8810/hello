@@ -1,14 +1,7 @@
-## Getting Started
+# 数あてゲーム
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## プログラマがプログラム内で設定した数を，ユーザが予想して入力する．
+## 当たったら”当たり”と表示し，外れた場合は設定された数より大きいか小さいかを表示する．
+## 20以上差があるとその旨を表示する．
+## ユーザは数を5回まで入力できるものとする．
+## このときの数は2桁の正の整数である．
